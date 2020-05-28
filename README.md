@@ -7,4 +7,5 @@ revised:
 
 Seminar site here: https://sites.google.com/colorado.edu/statoptml/
 
-This repo for presentation materials.
+This repo for presentation materials: [slides here](characterizing-neural-networks.ipynb).
+
